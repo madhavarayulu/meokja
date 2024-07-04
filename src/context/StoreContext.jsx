@@ -7,7 +7,7 @@ const StoreContextProvider = (props) => {
   const [food_list, setFoodList] = useState([]);
   const [cartItems, setCartItems] = useState({});
   const [token, setToken] = useState('');
-  const url = 'https://meokja-backend.onrender.com/';
+  const url = 'https://meokja-backend.onrender.com';
 
   const addToCart = async (itemId) => {
     setCartItems((prev) => ({ ...prev, [itemId]: (prev[itemId] || 0) + 1 }));
