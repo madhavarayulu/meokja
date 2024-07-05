@@ -3,15 +3,15 @@
 
 Meokja - a fullstack food ordering application.  
 
-## Deployment
-- **Main App Site**: [Meokja Main Site](https://meokja.vercel.app)
-- **Admin Site**: [Meokja Admin Site](https://meokja-admin.vercel.app)
-
 The project is split into three separate repositories:
 
 - **Frontend**: [Meokja Frontend](https://github.com/madhavarayulu/meokja)
 - **Backend**: [Meokja Backend](https://github.com/madhavarayulu/meokja-backend)
 - **Admin Panel**: [Meokja Admin](https://github.com/madhavarayulu/meokja-admin)
+
+## Deployment
+- **Main App Site**: [Meokja Main Site](https://meokja.vercel.app)
+- **Admin Site**: [Meokja Admin Site](https://meokja-admin.vercel.app)
 
 ---
 
